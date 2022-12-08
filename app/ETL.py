@@ -4,10 +4,10 @@ from FuncionesETL import limpiar_columnas, convertir_duracion, columnas_title
 
 # Extraemos todos los datasets de los csv y los convertimos en dataframes
 
-df_amazon = pd.read_csv('C:/Users/AMD/Desktop/Proyectos_individuales/DATA05PI01/datasets/amazon_prime_titles.csv')
-df_disney = pd.read_csv('C:/Users/AMD/Desktop/Proyectos_individuales/DATA05PI01/datasets/disney_plus_titles.csv')
-df_hulu = pd.read_csv('C:/Users/AMD/Desktop/Proyectos_individuales/DATA05PI01/datasets/hulu_titles.csv')
-df_netflix = pd.read_json('C:/Users/AMD/Desktop/Proyectos_individuales/DATA05PI01/datasets/netflix_titles.json')
+df_amazon = pd.read_csv('/datasets/amazon_prime_titles.csv')
+df_disney = pd.read_csv('/datasets/disney_plus_titles.csv')
+df_hulu = pd.read_csv('/datasets/hulu_titles.csv')
+df_netflix = pd.read_json('/datasets/netflix_titles.json')
 
 
 # Agregamos la columna platform para cada dataframe y especificamos a qué
