@@ -29,6 +29,6 @@
     
 <hr>
 
-<b> Para una explicación a fondo sobre cómo funciona el proyecto, les dejo un link al video: </b>
+##<b> Para una explicación a fondo sobre cómo funciona el proyecto, les dejo un link al video: **https://youtu.be/6BszacRFFlk**</b>
 
 #### <p> Muchas gracias por llegar hasta acá! Dejo mi linkedin adjunto: **https://www.linkedin.com/in/luciano-asencio/** 🤓<p>
