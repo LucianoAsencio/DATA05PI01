@@ -1,15 +1,30 @@
-Proyecto Individual 01
+# <h1 align=center><b>*PROYECTO DE -DATA ENGINEER- EN DOCKER/FASTAPI*</b></h1>
 
-Ingesta y normalización de datos
+<h2><b> Hola! Me llamo Luciano Asencio, este repositorio contiene mi primer Proyecto Individual, referido a Data Engineering.</b>👷🏻‍♂️</h2>
+<hr>
 
-Relacionar el conjunto de datos y crear la tabla necesaria para realizar consultas. Aquí se recomienda corroborar qué datos necesitarán en base a las consultas a realizar y concatenar las 4 tablas
+<b>El proyecto consiste en hacer un proceso de ETL sobre 4 datasets de diferentes plataformas de streaming, la creacion de una API con FastAPI y poder comprimir todo en un container de Docker.
+(Puntos extra si se hace el deploy del container en Mogenius 😋). </b>
 
-Leer documentación en links provistos e indagar sobre Uvicorn, FastAPI y Docker
+<hr>
 
-Crear la API en un entorno Docker → leer documentación en links provistos
+<b>Luego de la creación de la API, se espera que pueda responder diferentes consultas 📑: </b>
 
-Realizar consultas solicitadas
++ Máxima duración según tipo de film (película/serie), por plataforma y por año:
+    El request debe ser: get_max_duration(año, plataforma, [min o season]).
 
-Realizar un video demostrativo
++ Cantidad de películas y series (separado) por plataforma.
+    El request debe ser: get_count_plataform(plataforma).
+  
++ Cantidad de veces que se repite un género y plataforma con mayor frecuencia del mismo.
+    El request debe ser: get_listedin('genero').
 
-PLUS: realizar un deployment en Mogenius
++ Actor que más se repite según plataforma y año.
+  El request debe ser: get_actor(plataforma, año).  
+</ul>
+
+ <hr>
+
+<b> Para una explicación a fondo sobre cómo funciona el proyecto, les dejo un link al video: </b>
+
+#### <p> Muchas gracias por llegar hasta acá! Dejo mi linkedin adjunto: **https://www.linkedin.com/in/luciano-asencio/** <p>
