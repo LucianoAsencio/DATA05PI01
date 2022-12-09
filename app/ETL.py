@@ -39,6 +39,8 @@ df_completo = columnas_title(df_completo)
 
 df_completo.duration.fillna(0, inplace=True)
 
+df_completo.unit.replace('Seasons', 'Season')
+
 df_completo.cast.fillna('Sin Dato', inplace=True)
 
 df_completo.cast.replace('1','Sin Dato', inplace=True)

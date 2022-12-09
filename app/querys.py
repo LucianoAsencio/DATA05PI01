@@ -11,7 +11,7 @@ def get_max_duration(año, plataforma, tipo):
 
     if tipo.lower() == 'min':
         return f"La película es {titulo} y dura {duracion} minutos"
-    elif tipo.lower() == 'season':
+    elif tipo.lower() == 'season' or tipo.lower() == 'seasons':
         return f"La serie es: {titulo} y dura {duracion} temporadas"
     else:
         return f"Algún dato no fue ingresado correctamente, vuelva al inicio para ver el formato"
