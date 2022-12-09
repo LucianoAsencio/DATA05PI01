@@ -27,4 +27,4 @@
 
 <b> Para una explicación a fondo sobre cómo funciona el proyecto, les dejo un link al video: </b>
 
-#### <p> Muchas gracias por llegar hasta acá! Dejo mi linkedin adjunto: **https://www.linkedin.com/in/luciano-asencio/** <p>
+#### <p> Muchas gracias por llegar hasta acá! Dejo mi linkedin adjunto: **https://www.linkedin.com/in/luciano-asencio/** 🤓<p>
