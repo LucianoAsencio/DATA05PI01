@@ -23,7 +23,11 @@
   El request debe ser: get_actor(plataforma, año).  
 </ul>
 
- <hr>
+<hr>
+
+### <p> La API `deployeada` en Mogenius: **https://pi-01-prod-pi-01-4dktqh.mo1.mogenius.io/docs**<p>
+    
+<hr>
 
 <b> Para una explicación a fondo sobre cómo funciona el proyecto, les dejo un link al video: </b>
 
